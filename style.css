@@ -81,12 +81,12 @@
 }
 
 .footer-button-left{
-    margin-left: 30px;
+    justify-items: flex-end;
   }
 
 .footer-button-right{
-    margin-right: 30px;
     margin-left: auto;
+    justify-items: flex-end;
   }
 
   button, button:focus{
